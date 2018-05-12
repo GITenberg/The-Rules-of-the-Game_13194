@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/247
     wikipedia: http://en.wikipedia.org/wiki/Stewart_Edward_White
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13194#The-Rules-of-the-Game
 gutenberg_issued: '2004-08-16'
 gutenberg_type: Text
 identifiers:
